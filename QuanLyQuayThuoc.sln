@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuanLyQuayThuoc.Module", "QuanLyQuayThuoc.Module\QuanLyQuayThuoc.Module.csproj", "{AD30D9FA-0869-4646-A2CC-FA2F111E0CA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuanLyQuayThuoc.Blazor.Server", "QuanLyQuayThuoc.Blazor.Server\QuanLyQuayThuoc.Blazor.Server.csproj", "{AE134AE9-DF5B-4B57-B253-DE620AE1AC5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		EasyTest|Any CPU = EasyTest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD30D9FA-0869-4646-A2CC-FA2F111E0CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD30D9FA-0869-4646-A2CC-FA2F111E0CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD30D9FA-0869-4646-A2CC-FA2F111E0CA9}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{AD30D9FA-0869-4646-A2CC-FA2F111E0CA9}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{AD30D9FA-0869-4646-A2CC-FA2F111E0CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD30D9FA-0869-4646-A2CC-FA2F111E0CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE134AE9-DF5B-4B57-B253-DE620AE1AC5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE134AE9-DF5B-4B57-B253-DE620AE1AC5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE134AE9-DF5B-4B57-B253-DE620AE1AC5B}.EasyTest|Any CPU.ActiveCfg = EasyTest|Any CPU
+		{AE134AE9-DF5B-4B57-B253-DE620AE1AC5B}.EasyTest|Any CPU.Build.0 = EasyTest|Any CPU
+		{AE134AE9-DF5B-4B57-B253-DE620AE1AC5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE134AE9-DF5B-4B57-B253-DE620AE1AC5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
