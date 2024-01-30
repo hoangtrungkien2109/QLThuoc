@@ -6621,27 +6621,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hii\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Win\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DTU\\Thương mại điện tử\\QuanLyQuayThuoc\\QuanLyQuayThuoc.Blazor.Server\\QuanLyQuayThuoc.Blazor.Server.csproj",
+      "projectUniqueName": "E:\\tnchau\\Projects\\QLThuoc\\QuanLyQuayThuoc.Blazor.Server\\QuanLyQuayThuoc.Blazor.Server.csproj",
       "projectName": "QuanLyQuayThuoc.Blazor.Server",
-      "projectPath": "D:\\DTU\\Thương mại điện tử\\QuanLyQuayThuoc\\QuanLyQuayThuoc.Blazor.Server\\QuanLyQuayThuoc.Blazor.Server.csproj",
-      "packagesPath": "C:\\Users\\Hii\\.nuget\\packages\\",
-      "outputPath": "D:\\DTU\\Thương mại điện tử\\QuanLyQuayThuoc\\QuanLyQuayThuoc.Blazor.Server\\obj\\",
+      "projectPath": "E:\\tnchau\\Projects\\QLThuoc\\QuanLyQuayThuoc.Blazor.Server\\QuanLyQuayThuoc.Blazor.Server.csproj",
+      "packagesPath": "C:\\Users\\Win\\.nuget\\packages\\",
+      "outputPath": "E:\\tnchau\\Projects\\QLThuoc\\QuanLyQuayThuoc.Blazor.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Win\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 23.2.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6650,15 +6647,14 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\DevExpress 23.2\\Components\\System\\Components\\Packages": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DTU\\Thương mại điện tử\\QuanLyQuayThuoc\\QuanLyQuayThuoc.Module\\QuanLyQuayThuoc.Module.csproj": {
-              "projectPath": "D:\\DTU\\Thương mại điện tử\\QuanLyQuayThuoc\\QuanLyQuayThuoc.Module\\QuanLyQuayThuoc.Module.csproj"
+            "E:\\tnchau\\Projects\\QLThuoc\\QuanLyQuayThuoc.Module\\QuanLyQuayThuoc.Module.csproj": {
+              "projectPath": "E:\\tnchau\\Projects\\QLThuoc\\QuanLyQuayThuoc.Module\\QuanLyQuayThuoc.Module.csproj"
             }
           }
         }

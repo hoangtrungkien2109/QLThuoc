@@ -73,5 +73,14 @@ namespace QuanLyQuayThuoc.Module.BusinessObjects
             get { return GetCollection<PhieuDatMua>(nameof(MaNCC)); }
         }
 
+
+        private string _test;
+        public string test
+        {
+            get { return _test; }
+            set { SetPropertyValue<string>(nameof(test), ref _test, value); }
+        }
+
+
     }
 }
